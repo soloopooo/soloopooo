@@ -1,4 +1,4 @@
-### Hi there 👋
+## Thanks for finding here, but i am a noob:(
 
 <!--
 **soloopooo/soloopooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![soloopooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soloopooo&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloopooo)](https://github.com/soloopooo/github-readme-stats)
+
