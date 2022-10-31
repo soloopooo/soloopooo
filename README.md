@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=soloopooo)
 
 ![soloopooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soloopooo&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloopooo&theme=dracula)](https://github.com/soloopooo/github-readme-stats)
 
