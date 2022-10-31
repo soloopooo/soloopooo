@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![https://soloop.ooo](https://img.shields.io/website?down_message=OH...&up_color=%2366ccff&up_message=Running%20perfectly&url=https%3A%2F%2Fsoloop.ooo)
 ![soloopooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soloopooo&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloopooo&theme=dracula)](https://github.com/soloopooo/github-readme-stats)
