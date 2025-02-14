@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://count.getloli.com/@t47wr9bhubo4n3qegirjp4-42t95y2jgr?name=t47wr9bhubo4n3qegirjp4-42t95y2jgr&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)]()
+
+
 [![](https://img.shields.io/website?down_message=OH...&up_color=%2366ccff&up_message=Running%20perfectly&url=https%3A%2F%2Fsoloop.ooo)](https://soloop.ooo)
 [![](https://img.shields.io/twitter/follow/soloopooo?style=social)](https://twitter.com/soloopooo)
 ![](https://komarev.com/ghpvc/?username=soloopooo)
